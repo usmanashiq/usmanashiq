@@ -1,6 +1,6 @@
 ### Hi, I'm Usman 👋
 
-<img src="https://raw.githubusercontent.com/chusmanrahi/chusmanrahi/master/banner.jpg" alt="Cover" />
+<img src="https://raw.githubusercontent.com/chusmanrahi/chusmanrahi/master/cover.webp" alt="Cover" />
 
 I am a Frontend Team Lead with 12+ years of experience building modern, scalable, and high-performance web applications.
 
