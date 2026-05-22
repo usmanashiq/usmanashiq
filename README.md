@@ -1,12 +1,15 @@
 ### Hi, I'm Usman 👋
 
-<img src="https://raw.githubusercontent.com/chusmanrahi/chusmanrahi/master/banner.jpg" alt="Usman Bio" />
+<img src="https://raw.githubusercontent.com/chusmanrahi/chusmanrahi/master/banner.jpg" alt="Cover" />
 
-I have been working as a full-stack web developer for the past 4 years.
+I am a Frontend Team Lead with 12+ years of experience building modern, scalable, and high-performance web applications.
 
-My expertise are:
-PHP Web development, MVC frameworks (Laravel, Codeigniter, Smarty), Wordpress theme & plugins development, HTML5, CSS3, javascript, APIs, Payment Gateways Integration, AWS (Amazon Web Services), Mysql, Git Version Control, Slack, social APIs integration.
+My expertise lies in React and Next.js development, with strong proficiency in TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, responsive design, and modern frontend architecture. I specialize in building fast, accessible, and user-centric interfaces with clean, maintainable, and scalable code.
 
-I always keep my skills updated with the new fast coming technologies and use these updated skills for my new Projects. I have a strong grasp of security principles and how they should apply in order to get a secured product.
+Over the years, I have worked on complex web applications, API integrations, payment gateway implementations, performance optimization, and improving Core Web Vitals such as LCP, FCP, and TBT. I have hands-on experience with Git, AWS, REST APIs, and collaborative tools including Slack and Jira.
 
-Always! my main focus would be my Client’s satisfaction. I enjoy working with businesses and individuals to provide them with a product they could be proud of!
+As a Team Lead, I focus not only on delivering high-quality solutions but also on mentoring developers, driving technical decisions, improving development processes, and ensuring successful project execution. I enjoy collaborating across teams, aligning technical implementation with business goals, and fostering an environment of continuous learning and growth.
+
+In addition to frontend expertise, I bring previous full-stack experience with PHP, Laravel, WordPress, and MySQL, which gives me a broader understanding of backend systems and helps build seamless end-to-end integrations.
+
+I am passionate about staying up to date with modern technologies and best practices while continuously improving both technical and leadership skills. My goal is to build reliable products, create meaningful user experiences, and drive successful outcomes for clients and teams.
